@@ -1,0 +1,43 @@
+{
+    "manifest": {
+        "author": "Stronzoh#2471",
+        "name": "Larry",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/879449733477847070\/1017042249135161354\/1662552156586.jpg",
+        "overlay_alpha": 0,
+        "blur_radius": 0
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/919909565464723478\/954041168218431508\/Monea_Alegante.ttf"
+    },
+    "simple_colors": {
+        "background": 9896005,
+        "background_secondary": 295108677,
+        "active_channel": -823590801,
+        "accent": -960561084,
+        "mention_highlight": -1651048379,
+        "statusbar": -854775744,
+        "input_background": -6881211,
+        "blocked_bg": -15118208
+    },
+    "colors": {
+        "abc_btn_colored_borderless_text_material": -812187579,
+        "abc_primary_text_material_light": -1667825595,
+        "abc_primary_text_material_dark": -870955408,
+        "uikit_btn_bg_color_selector_green": -820490368,
+        "uikit_btn_bg_color_selector_red": -1332281275,
+        "dark_grey_2_alpha_10": -493330310,
+        "abc_color_highlight_material": -494665668,
+        "abc_search_url_text_normal": -7094298,
+        "chat_input_button_tint_colors_dark": -1064058906,
+        "button_color_selector": -1399603226
+    },
+    "drawable_tints": {
+        "abc_ic_arrow_drop_right_black_24dp": -981262568,
+        "abc_btn_colored_material": -15715760,
+        "drawable_bg_chat_embed_gift_image_dark": -1525466016
+    },
+    "raws": {}
+}
