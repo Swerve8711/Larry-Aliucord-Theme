@@ -4,9 +4,8 @@ Theme made by Stronzoh#2471, ֆwerve#8711
 This theme was created by chance,
 bitch was experimenting and this wonder came out.
 The idea of ​​red LEDs and a bedroom with a poster.
-BY @Stronzoh
-All update are pushed by @ֆwerve 
-
+BY Stronzoh
+All update are pushed by ֆwerve 
 ```md
 This theme uses:
 -Dark mode ONLY
