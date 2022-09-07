@@ -9,3 +9,6 @@ This theme uses:
 
 Raw file/Updater: 
 https://raw.githubusercontent.com/Swerve8711/Larry-Aliucord-Theme/main/Larry.json
+
+## License
+[MIT](https://github.com/Swerve8711/Larry-Aliucord-Theme/LICENSE)
