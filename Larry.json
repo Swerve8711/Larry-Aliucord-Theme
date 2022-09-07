@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Stronzoh#2471, ֆwerve#8711",
         "name": "Larry",
-        "version": "1.6",
+        "version": "1.7",
         "updater": "https:\/\/raw.githubusercontent.com\/Swerve8711\/Larry-Aliucord-Theme\/main\/Larry.json",
         "license": "GNU-3.0"
     },
@@ -12,7 +12,7 @@
         "url": "https:\/\/raw.githubusercontent.com\/Swerve8711\/Larry-Aliucord-Theme\/main\/background.jpg"
     },
     "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/919909565464723478\/954041168218431508\/Monea_Alegante.ttf"
+        "*": "https:\/\/github.com\/Swerve8711\/Larry-Aliucord-Theme\/blob\/main\/fonts.ttf?raw=true"
     },
     "simple_colors": {
         "background": 9896005,
