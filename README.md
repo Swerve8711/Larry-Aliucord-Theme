@@ -7,8 +7,7 @@ This theme uses:
  -No custom sounds -- for now
  -Dark mode ONLY
 
-Raw file/Updater: 
-https://raw.githubusercontent.com/Swerve8711/Larry-Aliucord-Theme/main/Larry.json
+[Raw file/Updater](https://raw.githubusercontent.com/Swerve8711/Larry-Aliucord-Theme/main/Larry.json) 
 
 ## License
-[MIT](https://github.com/Swerve8711/Larry-Aliucord-Theme/LICENSE)
+[GNU](https://github.com/Swerve8711/Larry-Aliucord-Theme/LICENSE)
