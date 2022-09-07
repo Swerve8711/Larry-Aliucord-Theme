@@ -7,7 +7,8 @@ The idea of ​​red LEDs and a bedroom with a poster.
 ```md
 BY Stronzoh
 All update are pushed by ֆwerve 
-
+```
+```md
 This theme uses:
 -Dark mode ONLY
 -Full transparency
