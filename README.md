@@ -1,5 +1,5 @@
 # Larry-Aliucord-Theme
-Theme made by Stronzoh#2471, [ֆwerve#8711](https://discord.com/users/756885340047802410)
+Theme made by [Stronzoh#2471](https://discord.com/users/859498763407982612), [ֆwerve#8711](https://discord.com/users/756885340047802410)
 
 This theme was created by chance,
 bitch was experimenting and this wonder came out.
