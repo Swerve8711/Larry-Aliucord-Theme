@@ -1,12 +1,12 @@
 # Larry-Aliucord-Theme
-Theme made by Stronzoh#2471, ֆwerve#8711
+Theme made by Stronzoh#2471, [ֆwerve#8711](https://discord.com/users/756885340047802410)
 
 This theme was created by chance,
 bitch was experimenting and this wonder came out.
 The idea of ​​red LEDs and a bedroom with a poster.
 ```md
 BY Stronzoh
-All update are pushed by ֆwerve 
+All update are pushed by ֆwerve
 ```
 ```md
 This theme uses:
@@ -25,7 +25,7 @@ Create an Issue in github and submit the bug with this template
 MY user name in discord is: 
 The bug is: 
 ```
-Or dm ֆwerve#8711 in discord
+Or dm [ֆwerve](https://discord.com/users/756885340047802410) in discord
 
 #### License & Raw
 [GNU📃](https://github.com/Swerve8711/Larry-Aliucord-Theme/LICENSE) [Raw file/Updater🤓](https://raw.githubusercontent.com/Swerve8711/Larry-Aliucord-Theme/main/Larry.json) 
